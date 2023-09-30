@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+body{
+    background-color: aqua;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#assortment{
+    padding: 90px 0 70px;
+}
+
+#assortment .container_1400>h2 {
+    color: rgb(0, 0, 0);
+    font-size: 44px;
+    font-weight: 700;
+    margin-top: -48px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.container_1200 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 120px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+  }
